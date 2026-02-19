@@ -277,6 +277,3 @@ The `data-explorer` launcher runs tests automatically unless `--skip-tests` is p
 - Feedback log not updating
   - Confirm write permissions for `FEEDBACK_LOG_FILE` path and submit thumbs up/down on an answered question.
 
-## 12. License / Usage
-
-Internal project scaffold for dataset exploration and NL Q&A. Add your own license and deployment policy before external distribution.
