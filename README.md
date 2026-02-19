@@ -71,7 +71,7 @@ flowchart LR
 ### Install
 
 ```bash
-cd /Users/kyle/Documents/Data_explorer
+cd $HOME/Documents/Data_explorer
 python3.12 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
